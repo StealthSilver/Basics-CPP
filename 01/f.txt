@@ -1,0 +1,8 @@
+SUM OF NUMBERS 1 to N 
+
+start 
+input n 
+initialize sum = 0 & i = 1
+if i < n -> yes -> sum = sum + i
+         -> no -> print sum 
+end
