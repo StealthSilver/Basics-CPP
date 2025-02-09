@@ -1,0 +1,18 @@
+DATA STRUCTURES
+
+1. PRIMITIVE
+
+2. NON - PRIMITIVE 
+    a. LINEAR
+        aa. STATIC -> ARRAY
+        ab. DYNAMIC -> VECTOR
+                    -> LINKED LIST
+                    -> STACK
+                    -> QUEUE
+                    
+    b. NON-LINEAR -> TREE
+                  -> GRAPH
+                  -> TABLE / SET
+    
+                                 
+
