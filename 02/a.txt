@@ -50,6 +50,11 @@ to get the decimal precision we can use the float or double data types or else w
 RELATIONAL
 
 > -> greater than 
+>= -> greater than equal to
 < -> less than 
+<= -> less than equal to
 == -> equals to
 = -> assignment 
+!= -> not equal to
+
+the relational operators always return true or false
