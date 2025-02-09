@@ -18,4 +18,11 @@ DATA STRUCTURES
 
 FLOWCHARTS : diagramatic representation of the preocedure
 
+COMPONENTS IN FLOW CART 
+
+1. OVAL -> starting and end
+2. PARALLOGRAM -> input and output
+3. RECTANGLE -> processes
+4. ARROWS -> flow of the process
+
 PSEUDOCODE : Non syntaytical implementation of procedure
