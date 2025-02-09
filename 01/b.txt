@@ -1,0 +1,7 @@
+SUM OF 2 NUMBERS
+
+start
+input a & b
+a + b
+print sum 
+end
