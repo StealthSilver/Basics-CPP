@@ -26,4 +26,4 @@ COMPONENTS IN FLOW CART
 4. RHOMBUS -> decision
 5. ARROWS -> flow of the process
 
-PSEUDOCODE : Non syntaytical implementation of procedure
+PSEUDOCODE : Non-syntaytical implementation of procedure
