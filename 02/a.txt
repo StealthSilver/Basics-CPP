@@ -8,3 +8,22 @@ it is a case sensitive language
 to run the file
 1. g++ [filename]
 2. ./[name of .out file]
+
+VARIABLES 
+
+variable is written in cpp with the data type and the identifier (name given by the user)
+
+primitive data types : 
+1. int -> integer number -> takes 4 bytes
+3. float -> floating point numbers -> 4 bytes
+7. long double -> even bigger float  -> 12-16 bytes
+5. double -> larger floating numbers   -> 8 bytes
+2. char -> characters stored in form or ASCII values  -> 1 byte
+4. bool -> true or false -> 1 byte
+6. void -> empty type, does not return anything -> 	0 bytes
+
+the constant variables are stored in capital letters e.g. PI
+
+TYPE CONVERSION -> type conversion and type casting 
+
+type conversion is automatically done by the compiler in which a smaller data type is stored as the larger data type 
