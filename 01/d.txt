@@ -1,0 +1,7 @@
+MINIMUM OF 2 NUMBERS 
+
+start 
+input a, b
+decide if a < b -> yes -> print a 
+                -> no -> print b
+end
