@@ -36,6 +36,8 @@ in cpp 100.1 -> 101 , 100.99 -> 101
 
 OPERATORS  
 
+
+ARTHEMATIC
 sum -> +
 diff -> -
 product -> *
@@ -44,3 +46,10 @@ modulus -> %
 
 while dividing the int numbers the decimal points are not there in the output 
 to get the decimal precision we can use the float or double data types or else we can type cast
+
+RELATIONAL
+
+> -> greater than 
+< -> less than 
+== -> equals to
+= -> assignment 
