@@ -2,6 +2,6 @@ IS NUMBER EVEN OR ODD
 
 start 
 input a 
-calculate a % 2 == 0 -> yes -> print even 
+check a % 2 == 0 -> yes -> print even 
                      -> no -> print odd 
 end
