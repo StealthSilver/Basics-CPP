@@ -1,0 +1,7 @@
+AREA OF A SQUARE
+
+start
+input side a 
+area = a * a 
+print area
+end
