@@ -27,7 +27,7 @@ the constant variables are stored in capital letters e.g. PI
 TYPE CONVERSION -> type conversion and type casting 
 
 type conversion is automatically done by the compiler (implicit) in which a smaller data type is stored as the larger data type 
-(
+
 type casting is manually done (explicit) to store a bigger data type in a smaller one 
 
 in cpp 100.1 -> 101 , 100.99 -> 101
