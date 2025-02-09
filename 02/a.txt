@@ -1,4 +1,10 @@
 C++ is a compiled language 
+the compiler converts it in an executible file and executing the file gives the output
+
 it is strictly typed
 it has a garbage collector which uses mark and sweep algorithm
 it is a case sensitive language
+
+to run the file
+1. g++ [filename]
+2. ./[name of .out file]
