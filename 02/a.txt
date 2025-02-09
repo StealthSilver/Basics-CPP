@@ -33,3 +33,14 @@ type casting is manually done (explicit) to store a bigger data type in a smalle
 in cpp 100.1 -> 101 , 100.99 -> 101
 
 * until you initialize the variable in cpp it will have a garbage value
+
+OPERATORS  
+
+sum -> +
+diff -> -
+product -> *
+divide -> /
+modulus -> %
+
+while dividing the int numbers the decimal points are not there in the output 
+to get the decimal precision we can use the float or double data types or else we can type cast
