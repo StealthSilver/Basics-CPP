@@ -34,7 +34,7 @@ in cpp 100.1 -> 101 , 100.99 -> 101
 
 * until you initialize the variable in cpp it will have a garbage value
 
-OPERATORS  
+OPERATORS OPERATOR
 
 
 ARTHEMATIC
@@ -47,7 +47,7 @@ modulus -> %
 while dividing the int numbers the decimal points are not there in the output 
 to get the decimal precision we can use the float or double data types or else we can type cast
 
-RELATIONAL
+RELATIONAL OPERATOR 
 
 > -> greater than 
 >= -> greater than equal to
@@ -57,4 +57,11 @@ RELATIONAL
 = -> assignment 
 != -> not equal to
 
-the relational operators always return true or false
+the relational operators always return true or false 
+the true and false are represented by 1 and 0 respectively
+
+LOGICAL OPERATOR
+
+! -> NOT 
+|| -> OR 
+&& -> AND
