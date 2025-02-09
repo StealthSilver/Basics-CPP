@@ -23,6 +23,7 @@ COMPONENTS IN FLOW CART
 1. OVAL -> starting and end
 2. PARALLOGRAM -> input and output
 3. RECTANGLE -> processes
-4. ARROWS -> flow of the process
+4. RHOMBUS -> decision
+5. ARROWS -> flow of the process
 
 PSEUDOCODE : Non syntaytical implementation of procedure
