@@ -1,3 +1,4 @@
 C++ is a compiled language 
 it is strictly typed
 it has a garbage collector which uses mark and sweep algorithm
+it is a case sensitive language
