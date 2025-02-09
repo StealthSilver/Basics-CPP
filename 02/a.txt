@@ -65,3 +65,12 @@ LOGICAL OPERATOR
 ! -> NOT 
 || -> OR 
 && -> AND
+
+UNARY OPERATORS 
+
+++ -> incrementing the value 
+ 
+-- -> decrementing the value
+
+++a means that first increment then other stuff
+++a means that first other stuff then increment
