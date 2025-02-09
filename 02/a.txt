@@ -31,3 +31,5 @@ type conversion is automatically done by the compiler (implicit) in which a smal
 type casting is manually done (explicit) to store a bigger data type in a smaller one 
 
 in cpp 100.1 -> 101 , 100.99 -> 101
+
+* until you initialize the variable in cpp it will have a garbage value
