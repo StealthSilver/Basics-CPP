@@ -4,7 +4,7 @@ start
 input n > 2
 initialize i = 2 
 for (let i =2; i<= sqrt(n) i++ ){
-    if(n % 1 == 0) -> print (not prime)
+    if(n % i == 0) -> print (not prime)
 }
 print (prime)
 end
