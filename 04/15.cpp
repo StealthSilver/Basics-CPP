@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 
-    int n = 4;
+    int n = 6;
 
     for (int i = 0; i < n; i++)
     {
@@ -26,12 +26,13 @@ int main()
 
         // nums2
 
-        for (int j = 1; j >= 1; j--)
+        for (int j = i; j > 0; j--)
         {
             cout << j;
         }
 
         cout << endl;
-
-        return 0;
     }
+
+    return 0;
+}
