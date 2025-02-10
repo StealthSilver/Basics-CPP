@@ -3,3 +3,5 @@ FUNCTIONS
 returnType printHello(){
     code . . . . . . 
 }
+
+functions are used to reduce redundancy
