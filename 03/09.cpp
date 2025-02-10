@@ -7,7 +7,7 @@ int main()
 {
 
     int sum = 0;
-    int n = 8;
+    int n = 100;
 
     for (int i = 0; i <= n; i++)
     {
