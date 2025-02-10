@@ -1,1 +1,3 @@
- 
+PATTERN QUESTIONS 
+
+they can be made with the loops
