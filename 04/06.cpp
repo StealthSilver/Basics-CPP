@@ -5,20 +5,20 @@ int main()
 {
     int n = 3;
 
-    int num = 1;
+    char ch = 'A';
 
     for (int i = 0; i < n; i++)
     {
 
         for (int j = 0; j < n; j++)
         {
-            cout << num << " ";
-            num++;
+            cout << ch << " ";
+            ch++;
         }
         cout << endl;
     }
 
-    cout << "aftre pattern : " << num;
+    cout << "aftre pattern : " << ch;
 
     return 0;
 }
