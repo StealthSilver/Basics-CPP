@@ -1,4 +1,4 @@
-// function to find sum of two nums
+// function to find sum of two nums and min
 
 #include <iostream>
 

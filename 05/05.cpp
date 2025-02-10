@@ -1,4 +1,4 @@
-// function to find sum of two nums
+
 
 #include <iostream>
 
