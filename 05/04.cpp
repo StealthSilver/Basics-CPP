@@ -4,7 +4,7 @@
 
 using namespace std;
 
-double sum(double a, double b)
+double sum(double a, double b) // parameters
 {
     double ans = a + b;
 
@@ -25,7 +25,7 @@ double min(double c, double d)
 
 int main()
 {
-    cout << sum(3.456, 7.84734) << endl;
+    cout << sum(3.456, 7.84734) << endl; // arguments
 
     cout << min(4, 8) << endl;
 
