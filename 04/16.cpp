@@ -49,7 +49,7 @@ int main()
 
         cout << "*";
 
-        if (i != n - 1)
+        if (i != n - 2)
         {
             // spaces
 
