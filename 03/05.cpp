@@ -8,7 +8,7 @@ int main()
 
     int n = -9;
 
-    n >= 0 ? cout << "positive" << endl : cout << "negative" << endl;
+    cout << (n >= 0 ? "positive" : "negative") << endl;
 
     return 0;
 }
