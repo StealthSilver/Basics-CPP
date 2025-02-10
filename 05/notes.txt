@@ -12,3 +12,4 @@ FUNCTIONS IN MEMORY in C++
 
 memory is stored in two formats : STACK -> static allocation and HEAP -> dynamic allocation
 
+every function is stored in the stack frame and the call stack calls the functions respectively
