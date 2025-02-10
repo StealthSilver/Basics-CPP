@@ -11,8 +11,9 @@ int main()
     {
         for (int j = 1; j <= 10; j++)
         {
-            cout << "* " << endl;
+            cout << "* ";
         }
+        cout << endl;
     }
 
     return 0;
