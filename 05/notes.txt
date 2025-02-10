@@ -19,3 +19,7 @@ once a function is declared the variables in that functions cannot be used out o
 i.e. in the main or any other function
 
 the return statement in any function is the final statement, anything after that is not executed
+
+pass by value
+
+only a copy of the argument is passed to the function
