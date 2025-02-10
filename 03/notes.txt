@@ -2,3 +2,4 @@ CONDITIONAL STATEMENTS
 
 if-else syntax
 
+if -  else-if - else
