@@ -23,7 +23,7 @@ the return statement in any function is the final statement, anything after that
 pass by value : 
 
 only a copy of the argument is passed to the function
-the normal variables are always passed by value
+the normal primitive variables are always passed by value
 
 pass by refrence: 
 
