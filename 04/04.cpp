@@ -11,7 +11,8 @@ int main()
         char ch = 'A';
         for (int j = 1; j <= n; j++) // inner loop starts -> line starts
         {
-            cout << "* ";
+            cout << ch << " ";
+            cout << ch + 1;
         }
         cout << endl;
     }
