@@ -1,3 +1,6 @@
 PATTERN QUESTIONS 
 
 they can be made with the loops
+
+ASCII of A = 65
+ASCII of a = 97

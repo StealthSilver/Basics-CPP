@@ -12,7 +12,7 @@ int main()
         for (int j = 1; j <= n; j++) // inner loop starts -> line starts
         {
             cout << ch << " ";
-            cout << ch + 1;
+            ch = ch + 1;
         }
         cout << endl;
     }
