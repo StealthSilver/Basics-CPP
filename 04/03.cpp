@@ -10,7 +10,7 @@ int main()
     {
         for (int j = 1; j <= n; j++)
         {
-            cout << j << " ";
+            cout << "* ";
         }
         cout << endl;
     }
