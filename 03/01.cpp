@@ -1,3 +1,5 @@
+// can or cannot vote
+
 #include <iostream>
 using namespace std;
 
