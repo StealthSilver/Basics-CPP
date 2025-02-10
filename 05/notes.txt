@@ -20,6 +20,11 @@ i.e. in the main or any other function
 
 the return statement in any function is the final statement, anything after that is not executed
 
-pass by value
+pass by value : 
 
 only a copy of the argument is passed to the function
+the normal variables are always passed by value
+
+pass by refrence: 
+
+the template variables vector , linked list and stack are passed by refrence
