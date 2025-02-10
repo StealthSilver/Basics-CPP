@@ -5,3 +5,10 @@ returnType printHello(){
 }
 
 functions are used to reduce redundancy
+
+main function is automatically called by the compiler
+
+FUNCTIONS IN MEMORY in C++
+
+memory is stored in two formats : STACK -> static allocation and HEAP -> dynamic allocation
+
