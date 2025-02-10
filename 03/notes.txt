@@ -47,3 +47,6 @@ do-while
 
     return 0;
 }
+
+
+nested loop
