@@ -12,6 +12,25 @@ LOOPS -> repetition
 
 while 
 
+int a = 0;
+
+    while (a <= 100)
+    {
+        cout << a << endl;
+
+        a++;
+    }
+
+
+
 for 
+
+for (int a = 0; a <= 100; a++)
+    {
+        cout << a << endl;
+    }
+
+
+
 
 do-while
