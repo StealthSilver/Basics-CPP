@@ -1,4 +1,4 @@
-// pass by value
+// sum of the digits of a number
 
 #include <iostream>
 using namespace std;
@@ -13,7 +13,7 @@ int sumDigit(int a)
         int lastDigit = a % 10;
         a /= 10;
 
-        sum = lastDigit;
+        sum += lastDigit;
     }
 
     return sum;
