@@ -3,3 +3,7 @@ CONDITIONAL STATEMENTS
 if-else syntax
 
 if -  else-if - else
+
+TERNARY STATEMENT
+
+condition ? stt1 : stt2;
