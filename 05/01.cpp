@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// function definition
 void printHello()
 {
     cout << "Hello World" << endl;
