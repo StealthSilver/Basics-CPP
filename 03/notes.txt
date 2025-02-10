@@ -7,3 +7,11 @@ if -  else-if - else
 TERNARY STATEMENT
 
 condition ? stt1 : stt2;
+
+LOOPS -> repetition
+
+while 
+
+for 
+
+do-while
