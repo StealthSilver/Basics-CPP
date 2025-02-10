@@ -8,8 +8,14 @@ functions are used to reduce redundancy
 
 main function is automatically called by the compiler
 
+void function does not return anything but return the control
+
 FUNCTIONS IN MEMORY in C++
 
 memory is stored in two formats : STACK -> static allocation and HEAP -> dynamic allocation
 
 every function is stored in the stack frame and the call stack calls the functions respectively
+once a function is declared the variables in that functions cannot be used out of their scope
+i.e. in the main or any other function
+
+the return statement in any function is the final statement, anything after that is not executed
