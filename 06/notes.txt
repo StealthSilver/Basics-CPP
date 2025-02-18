@@ -24,9 +24,18 @@ Two's complement
 
 to store negative numbers in memory we have to calculate two's complement
 
+
 for 0101 -> the first 0 is the MSB (most significant bit)
 MSB = 0 -> positive 
 MSB = 1 -> negative 
 
-we find the one's complement(reverse all zeros to 1 and 1 to 0) and add 1 to the number 
+to convert negative decimal to binary
 
+step 1: convert to non negative binary
+step 2: find the one's complement(reverse all zeros to 1 and 1 to 0)
+step 3 : add 1 to the number 
+
+to convert negative binary to decimal 
+
+step 1: find one's complement (reverse all the digits)
+step 2: add 1 to the numebr 
