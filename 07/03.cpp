@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 
-    int a = 4, b = 8;
+    int a = 3, b = 7;
 
     cout << (a ^ b) << endl;
 
