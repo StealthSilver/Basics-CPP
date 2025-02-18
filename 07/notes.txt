@@ -42,3 +42,6 @@ OPEARTOR PRECEDENCE
 for operators of equal precedence law of associativity is followed
 
 SCOPE OF VARIABLES
+
+local -> variables defined in if - else , loops , function , block of code {}
+global -> 
