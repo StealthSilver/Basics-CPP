@@ -52,7 +52,7 @@ DATA TYPE MODIFIERS
 change meaning of data types (they depend upon system used)
 
 1. long -> used with int and double >= 4 bytes (from -2^31 to 2^31-1 to -2^63 to 2^63 -1)
-2. short ->
-3. long long -> 
-4. singned -> 
+2. short -> <= 2
+3. long long -> >= 4
+4. singned -> by default int is signed (both +vs and -ve can be used)
 5. unsigned ->
