@@ -38,3 +38,5 @@ OPEARTOR PRECEDENCE
 &&
 ||
 = (assignment operator)
+
+for operators of equal precedence law of associativity is followed
