@@ -17,3 +17,4 @@ numbers are represented as (a * 2^0 + b * 2 ^ 1 + c * 2 ^ 2 + d * 2 ^ 3 + e * 2 
 9 -> 1001
 10 -> 1010
 
+01.cpp -> representing decimal in binary numbers 
