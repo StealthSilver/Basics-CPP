@@ -45,3 +45,10 @@ SCOPE OF VARIABLES
 
 local -> variables defined in if - else , loops , function , block of code {}
 global -> varaibles that can be accesses throughout the file
+
+
+DATA TYPE MODIFIERS 
+
+change meaning of data types
+
+
