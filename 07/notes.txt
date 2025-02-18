@@ -27,3 +27,14 @@ a << b this is basically a * 2^b
 4. Bitwise >> (Right Shift)
 n >> 1 -> every bit sifts to the right by one place and the empty space are filled by 0
 a >> b this is basically a/2^b
+
+OPEARTOR PRECEDENCE 
+
+! , ++ , --
+* , / , %
++ , -
+< , <= , >=, >
+== , != 
+&&
+||
+=
