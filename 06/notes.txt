@@ -3,4 +3,17 @@ BINARY NUMBERS
 number system is the number of digits used while writing digits
 computers only understand 0, 1 (base 2) so it runs in binary number system 
 
-numbers are represented as (a * 2^0 + b * 2 ^ 1 + c * 2 ^ 2 + d * 2 ^ 3 + e * 2 ^ 4  )
+numbers are represented as (a * 2^0 + b * 2 ^ 1 + c * 2 ^ 2 + d * 2 ^ 3 + e * 2 ^ 4 )
+
+0 -> 0
+1 -> 1 
+2 -> 10
+3 -> 11 
+4 -> 100
+5 -> 101
+6 -> 110
+7 -> 111
+8 -> 1000
+9 -> 1001
+10 -> 1010
+
