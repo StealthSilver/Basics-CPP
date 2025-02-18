@@ -9,5 +9,8 @@ int main()
     cout << sizeof(long long int) << endl;
     cout << sizeof(short int) << endl;
 
+    unsigned int a = -7;
+    cout << a << endl;
+
     return 0;
 }
