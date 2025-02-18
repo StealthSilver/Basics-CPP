@@ -49,6 +49,7 @@ global -> varaibles that can be accesses throughout the file
 
 DATA TYPE MODIFIERS 
 
-change meaning of data types
+change meaning of data types (they depend upon system used)
 
-
+1. long -> used with int and double >= 4 bytes
+2. 
