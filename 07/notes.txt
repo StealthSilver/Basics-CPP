@@ -2,8 +2,14 @@ BITWISE OPERATORS
 
 these operators do operations on the decimal form of numbers 
 
-1. Bitwise & 
+1. Bitwise & (AND)
 0 & 0 -> 0
 1 & 0 -> 0
 0 & 1 -> 0
 1 & 1 -> 1
+
+2. Bitwise | (OR)
+0 | 0 -> 0
+1 | 0 -> 1
+0 | 1 -> 1
+1 | 1 -> 1
