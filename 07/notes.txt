@@ -19,3 +19,9 @@ these operators do operations on the decimal form of numbers
 1 ^ 0 -> 1
 0 ^ 1 -> 1
 1 ^ 1 -> 0
+
+4. Bitwise << (Left Shift)
+n << 1 -> every bit sifts to the left by one place and the empty space are filled by 0
+
+4. Bitwise >> (Right Shift)
+n >> 1 -> every bit sifts to the right by one place and the empty space are filled by 0
