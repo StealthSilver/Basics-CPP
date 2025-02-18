@@ -1,0 +1,9 @@
+BITWISE OPERATORS 
+
+these operators do operations on the decimal form of numbers 
+
+1. Bitwise & 
+0 & 0 -> 0
+1 & 0 -> 0
+0 & 1 -> 0
+1 & 1 -> 1
