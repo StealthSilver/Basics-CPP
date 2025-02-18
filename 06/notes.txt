@@ -39,3 +39,10 @@ to convert negative binary to decimal
 
 step 1: find one's complement (reverse all the digits)
 step 2: add 1 to the numebr 
+
+
+-8 to binary 
+
+1:  1000
+2: 0 1000
+3: 11000
