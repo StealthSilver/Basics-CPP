@@ -23,3 +23,10 @@ numbers are represented as (a * 2^0 + b * 2 ^ 1 + c * 2 ^ 2 + d * 2 ^ 3 + e * 2 
 Two's complement 
 
 to store negative numbers in memory we have to calculate two's complement
+
+for 0101 -> the first 0 is the MSB (most significant bit)
+MSB = 0 -> positive 
+MSB = 1 -> negative 
+
+we find the one's complement(reverse all zeros to 1 and 1 to 0) and add 1 to the number 
+
