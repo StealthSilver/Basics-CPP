@@ -20,11 +20,12 @@ int linearSearch(int arr[], int size, int target)
 int main()
 {
 
-    int arr[] = {4, 2, 7, 8, 9};
-    int size = 2;
+    int arr[] = {4, 2, 7, 8, 9, 3, 2, 1};
+    int size = 7;
     int target = 8;
 
-    linearSearch(arr, size, target);
+    int result = linearSearch(arr, size, target);
+    cout << result << endl;
 
     return 0;
 }
