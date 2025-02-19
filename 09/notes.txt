@@ -7,3 +7,4 @@ vectors are like arrays but dynamic
 
 vector<int> vec;
 the vectors can be resized
+by default the size of vectors is 0
