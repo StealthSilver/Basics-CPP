@@ -15,18 +15,17 @@ int main()
         cin >> marks[i];
     }
 
-    int smallest = INT_MAX;
+    int largest = INT_MIN;
 
     for (int i = 0; i < size; i++)
     {
-        if (marks[i] < smallest)
-        // max(marks[i], largest)
+        if (marks[i] > largest)
         {
-            smallest = marks[i];
+            largest = marks[i];
         }
     }
 
-    cout << smallest << endl;
+    cout << largest << endl;
 
     return 0;
 }
