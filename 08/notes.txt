@@ -15,3 +15,7 @@ it is used for the non primitive data types
 in pass by refrence the address are passed
 
 arrays are passed by refrence by default (implicitly)
+
+the changes in an external function is reflected in the main function 
+
+the name of the array is a pointer pointing to the starting index, 
