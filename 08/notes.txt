@@ -29,3 +29,5 @@ the time complexity of linear search is O(n)
 
 there is a better method of binary search
 the time complexity of binary search is O(logn)
+
+REVERSING AN ARRAY 09.cpp
