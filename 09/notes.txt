@@ -53,3 +53,6 @@ Can resize memory dynamically.
 Cons:
 Slower than static allocation (needs extra time for allocation/deallocation).
 Risk of memory leaks if delete is not used.
+
+
+whenever the vector fills up then it doubles it's size 
