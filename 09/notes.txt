@@ -21,3 +21,35 @@ back
 at
 
 STATIC vs DYNAMIC MEMORY ALLOCATION
+
+Static Memory Allocation
+
+Memory is allocated at compile time.
+The size is fixed and cannot be changed during execution.
+The memory is managed automatically by the compiler.
+It is stored in the stack or data segment (for global/static variables).
+
+Pros:
+Fast execution (allocation/deallocation is automatic).
+No memory leaks.
+
+Cons:
+Cannot resize memory at runtime.
+Wastes memory if allocated space is not fully used.
+
+Dynamic Memory Allocation
+Definition:
+
+Memory is allocated at runtime using the heap.
+It allows flexible memory management.
+Requires manual deallocation to prevent memory leaks.
+Uses new and delete operators (C++).
+
+
+Pros:
+Memory is used efficiently (allocates only when needed).
+Can resize memory dynamically.
+
+Cons:
+Slower than static allocation (needs extra time for allocation/deallocation).
+Risk of memory leaks if delete is not used.
