@@ -9,6 +9,9 @@ int main()
 
     cout << marks << endl;
     cout << price << endl;
+    cout << marks[0] << endl;
+    cout << price[1] << endl;
+    cout << price[2] << endl;
 
     return 0;
 }
