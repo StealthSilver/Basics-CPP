@@ -1,3 +1,4 @@
+// finding all the subarrays
 #include <iostream>
 #include <vector>
 using namespace std;
