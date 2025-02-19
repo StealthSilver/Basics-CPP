@@ -12,5 +12,10 @@ int main()
     cout << num[3] << endl;
     cout << num[4] << endl;
 
+    for (int i : num)
+    {
+        cout << i << endl;
+    }
+
     return 0;
 }
