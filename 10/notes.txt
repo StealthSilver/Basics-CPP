@@ -5,6 +5,7 @@ maximum subarray -> leetcode 53
 method 1 : brute force -> 02.cpp
 method 2 : kadane's algorithm -> 03.cpp (most optimized)
 
-KADANE's algo :
+KADANE's algo, this is a dynamic programming algorithm:
 
 intution : rather than adding a bigger negative numebr , reset the sum to zero
+
