@@ -39,4 +39,7 @@ there are two approaches
 2 pointer approach
 
 get two pointers start and end 
-continuously make start ++ and end-- and keep swaping values(arr [start], arr [end])
+continuously make start ++ and end-- and keep swaping values(arr [start], arr [end]) until start < end
+
+duplicate array approach 
+create a reverse array and loop it throught the original array assigning values from the end of original array
