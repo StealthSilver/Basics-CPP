@@ -1,12 +1,10 @@
-// smallest element in an array
-
 #include <iostream>
+#include <climits>
 
 using namespace std;
 
 int main()
 {
-
     int marks[5];
     int size = 5;
 
@@ -16,13 +14,18 @@ int main()
     }
 
     int largest = INT_MIN;
+    int index = -1;
 
     for (int i = 0; i < size; i++)
     {
-        largest = max(marks[i], largest);
+        if (marks[i] > largest)
+        {
+            largest = marks[i];
+            index = i;
+        }
     }
 
-    cout << largest << endl;
+    cout << "Largest element: " << largest << " at index " << index << endl;
 
     return 0;
 }

@@ -16,6 +16,7 @@ int main()
     }
 
     int smallest = INT_MAX;
+    int index = -1;
 
     for (int i = 0; i < size; i++)
     {
@@ -23,10 +24,11 @@ int main()
         // max(marks[i], largest)
         {
             smallest = marks[i];
+            index = i;
         }
     }
 
-    cout << smallest << endl;
+    cout << "Smallest element: " << smallest << " at index " << index << endl;
 
     return 0;
 }
