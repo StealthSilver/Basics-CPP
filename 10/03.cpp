@@ -1,30 +1,27 @@
 // kadane's approch for max sum (leetcode 56) -> linear time complexity
-
 #include <iostream>
 #include <vector>
+#include <climits> // For INT_MIN
+
 using namespace std;
+
+int maxSubArray(vector<int> &nums)
+{
+    int maxSum = INT_MIN; // Stores the maximum subarray sum
+    int currentSum = 0;   // Stores sum of current subarray
+
+    for (int num : nums)
+    {
+        currentSum = max(num, currentSum + num); // Extend or restart subarray
+        maxSum = max(maxSum, currentSum);        // Update global maximum sum
+    }
+
+    return maxSum;
+}
 
 int main()
 {
-
-    int n = 5;
-    int arr[5] = {1, 2, 3, 4, 5};
-
-    int maxSum = INT_MIN;
-
-    for (int st = 0; st < n; st++)
-    {
-        int currSum = 0;
-
-        for (int end = st; end < n; end++)
-        {
-            currSum += arr[end];
-            maxSum = max(currSum, maxSum);
-        }
-        cout << endl;
-    }
-
-    cout << "max subarray sum = " << maxSum << endl;
-
+    vector<int> nums = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
+    cout << "Maximum Subarray Sum: " << maxSubArray(nums) << endl;
     return 0;
 }
