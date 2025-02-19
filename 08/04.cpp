@@ -1,0 +1,1 @@
+// smallest and largest element in an array

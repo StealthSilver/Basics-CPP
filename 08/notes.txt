@@ -6,3 +6,5 @@ the array can store only one type of data
 arrays are contiguous in memory
 
 int marks[5] -> total 5 * 4 continuous bytes of memory
+
+LOOPS ON ARRAYS
