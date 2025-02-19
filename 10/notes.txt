@@ -2,5 +2,5 @@ KADANE'S ALGORITHM
 
 maximum subarray -> leetcode 53
 
-method 1 : brute force 
+method 1 : brute force -> 01.cpp
 method 2 : kadane's algorithm
