@@ -1,0 +1,9 @@
+VECTORS
+
+STL -> standard template library of C++ (it contains stack, hashTable, vectors and queue ) we can use these structures directly from STL
+all the data structures are STL containers
+
+vectors are like arrays but dynamic
+
+vector<int> vec;
+the vectors can be resized
