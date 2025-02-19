@@ -22,3 +22,5 @@ the name of the array is a pointer pointing to the starting index, in the extern
 changes are applied on the original array as well
 
 LINEAR SEARCH 07.cpp
+
+it works by using the loops 
