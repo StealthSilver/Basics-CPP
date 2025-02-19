@@ -8,3 +8,5 @@ vectors are like arrays but dynamic
 vector<int> vec;
 the vectors can be resized
 by default the size of vectors is 0
+
+segmentation fault in C++ means we are trying to access an unallocted place in memory
