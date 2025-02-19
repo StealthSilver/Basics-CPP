@@ -31,3 +31,7 @@ there is a better method of binary search
 the time complexity of binary search is O(logn)
 
 REVERSING AN ARRAY 09.cpp
+
+there are two approaches
+1. 2 pointer approach 
+2. creating a duplicate array and thenreversing it
