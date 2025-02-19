@@ -18,4 +18,7 @@ arrays are passed by refrence by default (implicitly)
 
 the changes in an external function is reflected in the main function 
 
-the name of the array is a pointer pointing to the starting index, 
+the name of the array is a pointer pointing to the starting index, in the external function hte address is sent and all the 
+changes are applied on the original array as well
+
+LINEAR SEARCH 07.cpp
