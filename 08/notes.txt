@@ -7,4 +7,11 @@ arrays are contiguous in memory
 
 int marks[5] -> total 5 * 4 continuous bytes of memory
 
-LOOPS ON ARRAYS
+LOOPS ON ARRAYS 03.cpp
+
+PASS BY REFRENCE 06.cpp 
+
+it is used for the non primitive data types 
+in pass by refrence the address are passed
+
+arrays are passed by refrence by default (implicitly)
