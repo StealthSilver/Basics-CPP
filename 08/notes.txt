@@ -58,3 +58,9 @@ However, the two-pointer approach is more cache-friendly since it modifies eleme
 Lower Overhead:
 
 The two-pointer approach avoids the overhead of creating and initializing a new array, making it more efficient in practical use
+
+
+11.cpp -> sum and product of all numbers in an array 
+12.cpp -> swapping min and max nums in array 
+13.ccp -> print all unique values in array 
+14.cpp -> intersection of 2 arrays
