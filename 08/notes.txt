@@ -34,4 +34,9 @@ REVERSING AN ARRAY 09.cpp
 
 there are two approaches
 1. 2 pointer approach 
-2. creating a duplicate array and thenreversing it
+2. creating a duplicate array and then reversing it
+
+2 pointer approach
+
+get two pointers start and end 
+continuously make start ++ and end-- and keep swaping values(arr [start], arr [end])
