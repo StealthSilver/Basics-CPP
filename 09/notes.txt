@@ -56,3 +56,10 @@ Risk of memory leaks if delete is not used.
 
 
 whenever the vector fills up then it doubles it's size 
+
+
+09.cpp -> leetcode 136 single number 
+
+int singleNumber(vector<int>& nums) 
+there is a function by the name of singleNumber and the & is there by default the vectors are pass by value
+with & they are passed by refrence and also create an alias for the vector
