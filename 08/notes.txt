@@ -51,10 +51,12 @@ Space Efficiency:
 
 The two-pointer approach reverses the array in place, meaning it does not require extra space.
 The duplicate array approach requires O(n) extra space to store the reversed elements, leading to higher memory usage.
+
 Time Complexity:
 
 Both approaches have O(n) time complexity, as they iterate through the array once.
 However, the two-pointer approach is more cache-friendly since it modifies elements directly in the original array.
+
 Lower Overhead:
 
 The two-pointer approach avoids the overhead of creating and initializing a new array, making it more efficient in practical use
@@ -64,3 +66,5 @@ The two-pointer approach avoids the overhead of creating and initializing a new 
 12.cpp -> swapping min and max nums in array 
 13.ccp -> print all unique values in array 
 14.cpp -> intersection of 2 arrays
+
+the unique elements and the intersection can be done using hash maps
