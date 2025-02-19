@@ -68,3 +68,4 @@ there are two methods, using nested loops or using the XOR operator
 
 n ^ n  = 0
 n ^ 0  = n
+XOR is commutative (a ^ b = b ^ a) and associative ((a ^ b) ^ c = a ^ (b ^ c)).
