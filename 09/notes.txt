@@ -19,3 +19,5 @@ pop_back
 front
 back 
 at
+
+STATIC vs DYNAMIC MEMORY ALLOCATION
