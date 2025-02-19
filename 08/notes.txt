@@ -24,3 +24,8 @@ changes are applied on the original array as well
 LINEAR SEARCH 07.cpp
 
 it works by using the loops 
+
+the time complexity of linear search is O(n)
+
+there is a better method of binary search
+the time complexity of binary search is O(logn)
