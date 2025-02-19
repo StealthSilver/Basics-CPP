@@ -7,6 +7,7 @@ int main()
 {
     vector<char> ch = {'a', 'p', 'o', 'k'};
 
+    // for each loop
     for (char val : ch)
     {
         cout << val << endl;
