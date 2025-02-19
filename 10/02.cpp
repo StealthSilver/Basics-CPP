@@ -1,4 +1,4 @@
-// brute force approch for max sum (leetcode 56)
+// brute force approch for max sum (leetcode 56) -> 0(n^2) time complexity
 
 #include <iostream>
 #include <vector>
