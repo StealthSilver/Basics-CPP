@@ -42,4 +42,19 @@ get two pointers start and end
 continuously make start ++ and end-- and keep swaping values(arr [start], arr [end]) until start < end
 
 duplicate array approach 
+
 create a reverse array and loop it throught the original array assigning values from the end of original array
+
+The two-pointer approach is better than the duplicate array approach for reversing an array because:
+
+Space Efficiency:
+
+The two-pointer approach reverses the array in place, meaning it does not require extra space.
+The duplicate array approach requires O(n) extra space to store the reversed elements, leading to higher memory usage.
+Time Complexity:
+
+Both approaches have O(n) time complexity, as they iterate through the array once.
+However, the two-pointer approach is more cache-friendly since it modifies elements directly in the original array.
+Lower Overhead:
+
+The two-pointer approach avoids the overhead of creating and initializing a new array, making it more efficient in practical use
