@@ -10,3 +10,12 @@ the vectors can be resized
 by default the size of vectors is 0
 
 segmentation fault in C++ means we are trying to access an unallocted place in memory
+
+vector functions
+
+size
+push_back
+pop_back
+front
+back 
+at
