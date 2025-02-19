@@ -63,3 +63,5 @@ whenever the vector fills up then it doubles it's size
 int singleNumber(vector<int>& nums) 
 there is a function by the name of singleNumber and the & is there by default the vectors are pass by value
 with & they are passed by refrence and also create an alias for the vector
+
+there are two methods, using nested loops or using the XOR operator
