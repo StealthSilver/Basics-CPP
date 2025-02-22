@@ -15,3 +15,5 @@ returning the pair in the sorted array with the target sum
 
 1. brute force approach : O(n^2) -> 04.cpp
 2. 2 pointer approach : 0(n) -> 05.cpp
+
+MAJORITY ELEMENT
