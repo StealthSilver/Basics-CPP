@@ -9,3 +9,8 @@ KADANE's algo, this is a dynamic programming algorithm:
 
 intution : rather than adding a bigger negative numebr , reset the sum to zero
 
+PAIR SUM: 
+
+returning the pair in the sorted array with the target sum 
+
+1. brute force approach :(n^2)
