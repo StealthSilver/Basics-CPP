@@ -19,3 +19,8 @@ returning the pair in the sorted array with the target sum
 MAJORITY ELEMENT
 
 it is the element int eh array that appears floor(n/2) times in the array
+assumption : the majority element always exists 
+
+1. Brute force approach : -> 06.cpp
+2. Better approach -> 07.cpp
+3.
