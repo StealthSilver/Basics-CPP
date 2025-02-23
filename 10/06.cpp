@@ -22,7 +22,7 @@ int main()
         if (freq > n / 2)
         {
             cout << "Majority Element: " << val << endl;
-            return 0; // Exit after finding the majority element
+            return 0;
         }
     }
 
