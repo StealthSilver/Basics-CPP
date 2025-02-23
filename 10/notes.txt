@@ -17,3 +17,5 @@ returning the pair in the sorted array with the target sum
 2. 2 pointer approach : 0(n) -> 05.cpp
 
 MAJORITY ELEMENT
+
+it is the element int eh array that appears floor(n/2) times in the array
