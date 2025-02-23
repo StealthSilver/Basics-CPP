@@ -1,5 +1,3 @@
-// brute force for majority element -> O(n^2)
-
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -23,9 +21,11 @@ int main()
         }
         if (freq > n / 2)
         {
-            return val;
+            cout << "Majority Element: " << val << endl;
+            return 0; // Exit after finding the majority element
         }
     }
 
+    cout << "No Majority Element Found" << endl;
     return 0;
 }
