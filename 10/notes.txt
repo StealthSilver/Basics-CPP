@@ -23,5 +23,9 @@ assumption : the majority element always exists
 
 1. Brute force approach : -> 06.cpp
 2. Better approach -> 07.cpp
-3. Best approach 
-MOORE'S ALGORITHM
+3. Best approach -> 08.cpp
+
+MOORE'S VOTING ALGORITHM
+
+dont even dort the array teh majority element will always have the frequency greater than the second majority element
+hence just compare the frequencies rather than calculating them
