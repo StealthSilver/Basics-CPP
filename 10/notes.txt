@@ -23,4 +23,5 @@ assumption : the majority element always exists
 
 1. Brute force approach : -> 06.cpp
 2. Better approach -> 07.cpp
-3.
+3. Best approach 
+MOORE'S ALGORITHM
