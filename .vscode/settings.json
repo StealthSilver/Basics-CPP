@@ -41,6 +41,11 @@
         "sstream": "cpp",
         "variant": "cpp",
         "algorithm": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp"
     }
 }

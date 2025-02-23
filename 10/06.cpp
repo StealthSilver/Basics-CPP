@@ -1,3 +1,4 @@
+// majority element brute force -> O(n^2)
 #include <iostream>
 #include <vector>
 using namespace std;
