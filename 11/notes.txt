@@ -95,4 +95,4 @@ O(logn) -> O(sqrt(n)) -> O(n)
 
 there are two ways to calculate the time complexity
 a. recurrence relation 
-b. total no. of rec calls * work in each call
+b. total no. of rec. calls * work in each call
