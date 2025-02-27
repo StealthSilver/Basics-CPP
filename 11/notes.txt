@@ -55,3 +55,9 @@ N^2 time complexity
 bubble sort 
 selection sort
 insertion sort 
+2 nested loops -> pattern questions
+
+N^3 time complexity 
+
+possible sub arrays 
+triple nested loops
