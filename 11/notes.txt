@@ -1,2 +1,3 @@
 TIME AND SPACE COMPLEXITY
 
+time complexity is not the actual time taken but the time taken as the function of input size (n)
