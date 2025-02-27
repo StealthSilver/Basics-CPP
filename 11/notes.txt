@@ -114,3 +114,4 @@ space complexity -> O(n)
 05.cpp -> recursive merge sort 
 
 time complexity -> O(nlogn)
+space complexity -> O(n)
