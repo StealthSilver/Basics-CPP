@@ -108,3 +108,5 @@ SC = height of call stack  * memory used in each call
 
 for the balanced out tree -> O(2^n) 
 for the non balanced tee -> O(1.618 ^ n) -> golden ratio
+
+space complexity -> O(n)
