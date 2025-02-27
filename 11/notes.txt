@@ -120,3 +120,13 @@ on maximum coding platforms 10^8 operations can be performed in a second, if it 
 we get an error TLE (time limit exceeded)
 
 to avoid TLE we need ot optimize the algorithm 
+
+n > 10^8 -> O(logn) , O(1)
+n <= 10^8 -> O(n)
+n <= 10^6 -> O(nlogn)
+n <= 10^4 -> O(n^2)
+n <= 500 -> O(n^3) 
+n <= 25 -> O(2^n)
+n <= 12 -> O(n!)
+
+with checking these constrains we can get an idea about the algorithm that can be used
