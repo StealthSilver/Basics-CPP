@@ -13,5 +13,9 @@ n^2 + n + 1 -> n^2
 THETA NOTATION 
 this represents the average case time complexity
 
+n^3 + n^2 + n -> n^2
+
 OMEGA NOTATION 
 this represents the lower bound or the nest case time compelixity
+
+n^3 + n^2 + n -> n
