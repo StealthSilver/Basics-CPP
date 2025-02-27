@@ -33,4 +33,10 @@ O(1) -> O(logn) -> O(n) -> O(nlogn) -> O(n^2) -> O(n^3) -> O(2^n) -> O(n!)
 
 
 sum of numbers from 1 to n 
+printing first element of an array 
+last element in the sorted array 
 O(1)
+
+
+adding and deleting from hash maps
+ammotized O(1)
