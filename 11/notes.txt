@@ -24,3 +24,5 @@ SPACE COMPLEXITY
 
 amount of space taken by an algorithm as a function of input size (n)
 the input space is not considered, the extra auxillary space which we use is considered
+
+time complexity is more valuable in modern scenerio
