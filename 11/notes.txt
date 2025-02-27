@@ -1,4 +1,4 @@
-TIME AND SPACE COMPLEXITY
+TIME COMPLEXITY
 
 time complexity is not the actual time taken but the time taken as the function of input size (n)
 time  = f(n) -> time complexity
@@ -19,3 +19,8 @@ OMEGA NOTATION
 this represents the lower bound or the nest case time compelixity
 
 n^3 + n^2 + n -> n
+
+SPACE COMPLEXITY 
+
+amount of space taken by an algorithm as a function of input size (n)
+the input space is not considered, the extra auxillary space which we use is considered
