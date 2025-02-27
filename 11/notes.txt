@@ -61,3 +61,7 @@ N^3 time complexity
 
 possible sub arrays 
 triple nested loops
+
+logn time complexity 
+
+binary search
