@@ -97,3 +97,8 @@ there are two ways to calculate the time complexity
 a. recurrence relation 
 b. total no. of rec. calls * work in each call
 
+space complexity in recursion 
+
+there is always an call stack used in recursion 
+
+SC = height of call stack  * memory used in each call 
