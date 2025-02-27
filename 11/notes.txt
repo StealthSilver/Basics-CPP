@@ -64,4 +64,13 @@ triple nested loops
 
 logn time complexity 
 
-binary search
+binary search 
+binary search trees
+
+
+nlogn time complexity 
+
+merge sort
+quick sort
+greedy algorithm
+ 
