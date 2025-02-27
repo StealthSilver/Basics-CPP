@@ -32,7 +32,7 @@ Time complexity chart
 O(1) -> O(logn) -> O(n) -> O(nlogn) -> O(n^2) -> O(n^3) -> O(2^n) -> O(n!)
 
 
-Constant time complexity
+CONSTANT TIME COMPLEXITY
 
 sum of numbers from 1 to n 
 printing first element of an array 
@@ -43,44 +43,48 @@ O(1)
 adding and deleting from hash maps
 ammotized O(1)
 
-Linear time complexity 
+LINEAR TIME COMPLEXITY
 
 n factorial 
 kadane's algorithm 
 nth fibonacchi -> DP
 Moore's voting algorithm 
 
-N^2 time complexity 
+N^2 TIME COMPLEXITY
 
 bubble sort 
 selection sort
 insertion sort 
 2 nested loops -> pattern questions
 
-N^3 time complexity 
+N^3 TIME COMPLEXITY 
 
 possible sub arrays 
 triple nested loops
 
-logn time complexity 
+logn TIME COMPLEXITY 
 
 binary search 
 binary search trees
 
 
-nlogn time complexity 
+nlogn TIME COMPLEXITY 
 
 merge sort
 quick sort
 greedy algorithm
 
 
-O(2^n), O(3^n), O(4^n) exponential time complexity
+O(2^n), O(3^n), O(4^n) EXPONENTIAL TIME COMPLEXITY
 
 brute force recursion
 
-O(n!) factorial time complexity
+O(n!) FACTORIAL TIME COMPLEXITY
 
 4 queens 
 knights tour
 all possible string permutations
+
+01.cpp -> prime numebrs 
+
+O(logn) -> O(sqrt(n)) -> O(n)
