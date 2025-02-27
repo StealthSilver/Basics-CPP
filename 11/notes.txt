@@ -9,3 +9,9 @@ BIG O NOTATION
 this represents the upper bound or the worst case complexity
 
 n^2 + n + 1 -> n^2
+
+THETA NOTATION 
+this represents the average case time complexity
+
+OMEGA NOTATION 
+this represents the lower bound or the nest case time compelixity
