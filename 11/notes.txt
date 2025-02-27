@@ -88,3 +88,5 @@ all possible string permutations
 01.cpp -> prime numebrs 
 
 O(logn) -> O(sqrt(n)) -> O(n)
+
+02.cpp -> selection sort
