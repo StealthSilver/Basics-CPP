@@ -48,3 +48,10 @@ Linear time complexity
 n factorial 
 kadane's algorithm 
 nth fibonacchi -> DP
+Moore's voting algorithm 
+
+N^2 time complexity 
+
+bubble sort 
+selection sort
+insertion sort 
