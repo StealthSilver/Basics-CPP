@@ -1,6 +1,11 @@
 TIME AND SPACE COMPLEXITY
 
 time complexity is not the actual time taken but the time taken as the function of input size (n)
-
 time  = f(n) -> time complexity
 
+the time complexity let us create scalable systems and let us compare algorithms 
+
+BIG O NOTATION
+this represents the upper bound or the worst case complexity
+
+n^2 + n + 1 -> n^2
