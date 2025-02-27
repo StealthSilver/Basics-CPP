@@ -1,4 +1,4 @@
-// Function to calculate factorial using recursion
+// Function to calculate factorial using recursion -> O(n)
 
 #include <iostream>
 using namespace std;

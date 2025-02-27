@@ -47,7 +47,7 @@ LINEAR TIME COMPLEXITY
 
 n factorial 
 kadane's algorithm 
-nth fibonacchi -> DP
+nth fibonacci -> DP
 Moore's voting algorithm 
 
 N^2 TIME COMPLEXITY
@@ -91,8 +91,9 @@ O(logn) -> O(sqrt(n)) -> O(n)
 
 02.cpp -> selection sort
 
-03.cpp -> recursion 
+03.cpp -> recursion fibonacci
 
 there are two ways to calculate the time complexity
 a. recurrence relation 
 b. total no. of rec. calls * work in each call
+
