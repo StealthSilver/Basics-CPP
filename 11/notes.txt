@@ -118,3 +118,5 @@ space complexity -> O(n)
 
 on maximum coding platforms 10^8 operations can be performed in a second, if it exceeds then 
 we get an error TLE (time limit exceeded)
+
+to avoid TLE we need ot optimize the algorithm 
