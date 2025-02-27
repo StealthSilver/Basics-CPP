@@ -1,4 +1,4 @@
-// Function to merge sort arrays recursively
+// Function to merge sort arrays recursively -> O(nlogn)
 
 #include <iostream>
 using namespace std;
