@@ -73,4 +73,14 @@ nlogn time complexity
 merge sort
 quick sort
 greedy algorithm
- 
+
+
+O(2^n), O(3^n), O(4^n) exponential time complexity
+
+brute force recursion
+
+O(n!) factorial time complexity
+
+4 queens 
+knights tour
+all possible string permutations
